@@ -8,5 +8,9 @@ To run it locally without  firebase authentication, rename current **Inventory.j
 `cd` into `catch-of-the-day` 
 
 ```bash
+npm install
+```
+
+```bash
 npm start
 ```
